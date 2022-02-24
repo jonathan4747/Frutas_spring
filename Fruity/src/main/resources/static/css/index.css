@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+h1{
+	text-align: center;
+	color:rgb(250, 128, 114);
+}
+div{
+	display:flex;
+	justify-content:center;
+}
+table{
+	padding:10px;
+	background-color:rgb(250, 128, 114);
+}
+
+tr{
+	background-color:white;
+}
+.titulo{
+	color:rgb(250, 128, 114);
+}
